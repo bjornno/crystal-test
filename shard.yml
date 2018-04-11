@@ -5,8 +5,3 @@ dependencies:
   kemal:
     github: sdogruyol/kemal
     branch: master
-
-authors:
-  - Sdogruyol <dogruyolserdar@gmail.com>
-
-license: MIT
